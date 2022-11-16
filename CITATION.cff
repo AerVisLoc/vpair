@@ -11,3 +11,16 @@ title: "VPAIR-Aerial Visual Place Recognition and Localization in Large-scale Ou
 version: 1.0.0
 date-released: 2022-06-27
 url: "https://github.com/AerVisLoc/vpair"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Schleiss"
+    given-names: "Michael"
+  - family-names: "Rouatbi"
+    given-names: "Fami"
+  - family-names: "Cremers"
+    given-names: "Daniel"
+  journal: "arXiv preprint arXiv:2205.11567"
+  month: 5
+  title: "VPAIR-Aerial Visual Place Recognition and Localization in Large-scale Outdoor Environments"
+  year: 2022
