@@ -36,7 +36,8 @@ To request full access to the dataset please fill out the following form ([Link]
 
 The dataset is for academic use only. Commercial use is prohibited. If you use this dataset in your research please cite it accordingly:
 
-```@article{schleiss2022vpair,
+```
+@article{schleiss2022vpair,
   title={VPAIR-Aerial Visual Place Recognition and Localization in Large-scale Outdoor Environments},
   author={Schleiss, Michael and Rouatbi, Fahmi and Cremers, Daniel},
   journal={arXiv preprint arXiv:2205.11567},
