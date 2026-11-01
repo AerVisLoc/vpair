@@ -30,7 +30,7 @@ and on a local coordinate system in NED-convention for the orientation.
 
 Download Sample Data for Review.  ([Link](https://zenodo.org/record/6473989#.YmB_XC8esQw)) Size: 0.86GB
 
-To request full access to the dataset please fill out the following form ([Link](https://forms.gle/59p52AXCW1ozT5b28)).
+Download the full dataset ([Link](https://ltc.cvg.cit.tum.de/vpair/vpair.zip)) Size: 20.5GB
 
 ## License
 
